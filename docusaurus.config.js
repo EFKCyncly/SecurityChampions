@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Cyncly Security champions',
+  tagline: 'Secure Cyncly',
   favicon: 'CYNCLYSECAPP\static\img\CYNCLY_logo_CW_RGB.svg',
 
   // Set the production url of your site here
