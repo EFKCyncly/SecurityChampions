@@ -5,7 +5,7 @@ sidebar_label: Security Requirments
 
 Defining the security requirments helps you out when performing various security related activities. Defining what is important is essential before trying to map out what can go wrong while trying to secure your systems. Additionally, it will be easier to prioritize security work for you in the future, ex: 
     - Patching vulnerabilities found by (insert system we have here)
-    - prioritizing threats as part of the [Threat modeling](../../ThreatModeling/intro.md)
+    - prioritizing threats as part of the [Threat modeling](../ThreatModeling/intro.md)
     - When [Security Testing](../Resources/SecurityTesting.md) 
 
 ## What is security requirments? 
