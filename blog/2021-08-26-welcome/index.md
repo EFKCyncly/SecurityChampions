@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
+authors: [karla]
 tags: [facebook, hello, docusaurus]
 ---
 
@@ -9,7 +9,7 @@ tags: [facebook, hello, docusaurus]
 
 Simply add Markdown files (or folders) to the `blog` directory.
 
-Regular blog authors can be added to `authors.yml`.
+Regular blog authors can be added to `authors.yml`. dddd
 
 The blog post date can be extracted from filenames, such as:
 
