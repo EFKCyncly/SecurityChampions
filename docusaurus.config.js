@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Cyncly Security champions',
-  tagline: 'Secure Cyncly',
+  tagline: 'Secure',
   favicon: 'CYNCLYSECAPP\static\img\CYNCLY_logo_CW_RGB.svg',
 
   // Set the production url of your site here
@@ -76,7 +76,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -94,7 +94,7 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: 'intro',
+                to: '/docs/intro',
               },
             ],
           },
