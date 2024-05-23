@@ -1,4 +1,5 @@
 ---
+id: intro
 title: What is Security Champion?
 sidebar_label: What is Security Champion?
 ---
