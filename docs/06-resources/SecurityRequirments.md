@@ -5,8 +5,8 @@ sidebar_label: Security Requirments
 
 Defining the security requirments helps you out when performing various security related activities. Defining what is important is essential before trying to map out what can go wrong while trying to secure your systems. Additionally, it will be easier to prioritize security work for you in the future, ex: 
     - Patching vulnerabilities found by (insert system we have here)
-    - prioritizing threats as part of the [Threat modeling](../ThreatModeling/intro.md)
-    - When [Security Testing](../Resources/SecurityTesting.md) 
+    - prioritizing threats as part of the [Threat modeling](google.com)
+    - When [Security Testing](google.com) 
 
 ## What is security requirments? 
 > "[OWASP Proactive Controls](https://owasp.org/www-project-proactive-controls/v3/en/c1-security-requirements)"
